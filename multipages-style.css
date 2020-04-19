@@ -1,0 +1,29 @@
+.h01 {
+font-size:75px;
+color:#fff;
+}
+
+.p1 {
+font-size:20px;
+color:#fff;
+background-color:navy;
+padding:2px 5px 5px 5px;
+}
+
+.a1 {
+color:#fff
+}
+
+.a2 {
+font-size:30px;
+color:#fff;
+text-decoration:none;
+display:inline-block;
+text-align:center;
+background-color:navy;
+padding:25px;
+}
+
+body {
+background-image:url('universe.png');
+}

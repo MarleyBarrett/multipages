@@ -1,3 +1,9 @@
+body {
+background-image:url('universe.png');
+}
+
+@charset "UTF-8";
+
 .h01 {
 font-size:75px;
 color:#fff;
@@ -24,8 +30,4 @@ display:inline-block;
 text-align:center;
 background-color:navy;
 padding:25px;
-}
-
-body {
-background-image:url('universe.png');
 }

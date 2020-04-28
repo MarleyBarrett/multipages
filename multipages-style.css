@@ -1,5 +1,14 @@
 body {
-background-image:url('universe.png');
+background-image:url('biguniverse.jpg');
+}
+
+.parallax {
+  background-image:url("biguniverse.jpg");
+  height:100vw;
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
 }
 
 @charset "UTF-8";
